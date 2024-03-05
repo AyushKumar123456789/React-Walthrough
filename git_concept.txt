@@ -1,0 +1,14 @@
+# Cloaning and Downloading git project differnce ?
+
+Cloning gives you a full copy of the repository with its history and all its features, using Git commands.
+Downloading provides you with a snapshot of the project's current state as a compressed file, without access to the project's history or Git features.
+
+#  Forking and cloaning differnce
+
+ Forking copies the project onto your GitHub account, while cloning brings the project onto your local computer for you to work on.
+
+# Commit and push VS Commit and sync
+
+Commit and Push: Saves changes locally and then sends them to the remote repository.
+Commit and Sync: Saves changes locally, then incorporates changes from the remote repository into your local copy before pushing.
+
