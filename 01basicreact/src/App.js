@@ -1,6 +1,11 @@
+import Person from './chai';
+
 function App() {
   return (
-    <h1>Hello, world!</h1>
+    <div>
+      <h1>Hello, world!</h1>
+      <Person />
+    </div>
   );
 }
 
